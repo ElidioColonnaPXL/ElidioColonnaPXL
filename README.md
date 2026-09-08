@@ -1,5 +1,6 @@
-### Cloud & Security Student | DFIR | Security Operations | Detection Engineering
+# Student Cloud & Security  
 ---
+## DFIR | Security Operations | Detection Engineering
 
 I am a IT student focused on understanding attacker behaviour, building reliable detections, and investigating security incidents. My work combines hands-on labs, SIEM analysis, network monitoring, digital forensics, and security automation.
 
