@@ -27,7 +27,9 @@ Most of my work here focuses on blue-team security: homelabs, detection engineer
 ## Certifications
 
 <p>
-  <img alt="HTB Certified Defensive Security Analyst" src="https://img.shields.io/badge/HTB-CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <a href="https://www.credly.com/org/hack-the-box/badge/hack-the-box-certified-defensive-security-analyst-h">
+    <img alt="HTB Certified Defensive Security Analyst (CDSA)" src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/tracks/79.png" width="130" />
+  </a>
   <img alt="CompTIA A+" src="https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 
