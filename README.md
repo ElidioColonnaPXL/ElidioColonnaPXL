@@ -1,4 +1,4 @@
-# Hi, I'm Elidio
+# Hi, I'm Eli
 
 I'm a IT student who enjoys learning by building things and investigating how attacks show up in real telemetry.
 Most of my work here focuses on blue-team security: homelabs, detection engineering, digital forensics, network analysis, and the occasional automation script. I'm still learning, and I use GitHub to document that process and turn what I study into practical projects. Feedback or Invitations are always welcome.
