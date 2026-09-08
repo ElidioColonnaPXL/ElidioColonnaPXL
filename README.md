@@ -1,14 +1,10 @@
-# Hi, I'm Elidio Colonna
+### Cloud & Security Student | DFIR | Security Operations | Detection Engineering
+---
 
-### Cloud & Security Student | Detection Engineering | DFIR | Security Operations
+I am a IT student focused on understanding attacker behaviour, building reliable detections, and investigating security incidents. My work combines hands-on labs, SIEM analysis, network monitoring, digital forensics, and security automation.
 
-I am a cybersecurity student in Belgium focused on understanding attacker behaviour, building reliable detections, and investigating security incidents. My work combines hands-on labs, SIEM analysis, network monitoring, digital forensics, and security automation.
 
-I am building this portfolio in preparation for a **2027 cybersecurity internship**, with a long-term interest in detection engineering, threat hunting, incident response, and security engineering.
-
-> **My workflow:** Attack behaviour → Telemetry → Detection → Validation → Investigation → Documentation
-
-## Featured Projects
+## Projects
 
 | Project | Description |
 |---|---|
