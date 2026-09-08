@@ -24,6 +24,13 @@ Most of my work here focuses on blue-team security: homelabs, detection engineer
 | Digital forensics and malware triage | [IncidentDossier](https://github.com/ElidioColonnaPXL/IncidentDossier) · [infosec-wiki](https://github.com/ElidioColonnaPXL/infosec-wiki) |
 | Security scripting and automation | [PentaSOC](https://github.com/ElidioColonnaPXL/PentaSOC) · [DetectionFoundry](https://github.com/ElidioColonnaPXL/DetectionFoundry) |
 
+## Certifications
+
+<p>
+  <img alt="HTB Certified Defensive Security Analyst" src="https://img.shields.io/badge/HTB-CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img alt="CompTIA A+" src="https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
+
 ## Technical Toolkit
 
 ### SIEM and Log Analysis
@@ -52,13 +59,6 @@ Most of my work here focuses on blue-team security: homelabs, detection engineer
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-## Certifications
-
-<p>
-  <img alt="HTB Certified Defensive Security Analyst" src="https://img.shields.io/badge/HTB-CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img alt="CompTIA A+" src="https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 
 ## Current Focus
